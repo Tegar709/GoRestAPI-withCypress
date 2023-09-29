@@ -28,7 +28,7 @@ GoREST API is a web tool designed to facilitate developers in working with data 
 
 1. Clone the repository
 ```bash
-  $ git clone https://github.com/Tegar709/GorestApi-WithCypress3/tree/master
+  $ git clone https://github.com/Tegar709/GorestApi-WithCypress/tree/master
 ```
 2. Run in the terminal
 ```bash
